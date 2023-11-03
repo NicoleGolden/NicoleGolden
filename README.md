@@ -1,0 +1,1 @@
+Hi. I'm an Economics Ph.D. Candidate at the University of California, Irvine. My work uses Econometrics and Machine Learning models to answer empirical questions such as retail, consumer consumption patterns, household finance, and policy evaluation. I'm also interested in research topics related to Artificial Intelligence.
